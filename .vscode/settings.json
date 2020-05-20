@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"D:/Sebastian/Projects/UnrealEngine/BullCowGame 4.24/.vs": true,
+		"D:/Sebastian/Projects/UnrealEngine/BullCowGame 4.24/.vscode": true,
+		"D:/Sebastian/Projects/UnrealEngine/BullCowGame 4.24/Content": true,
+		"D:/Sebastian/Projects/UnrealEngine/BullCowGame 4.24/Intermediate": true,
+		"D:/Sebastian/Projects/UnrealEngine/BullCowGame 4.24/Saved": true
+	}
+}
